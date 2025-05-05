@@ -44,7 +44,8 @@ Copiers has the highest profit by sub-category
 #What is the sales-to-profit ratio?
 ![image](https://github.com/user-attachments/assets/83042e89-6bf0-4d52-be54-aec15575b4e4)
 
-#Tools used
+#Tools used:
+
 GOOGLE COLAB is used as IDE
 
 Among the Python libraries, Pandas is used for handling and preprocessing data.
