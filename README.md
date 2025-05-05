@@ -46,7 +46,9 @@ Copiers has the highest profit by sub-category
 
 #Tools used
 GOOGLE COLAB is used as IDE
+
 Among the Python libraries, Pandas is used for handling and preprocessing data.
+
 Plotly, Seaborn, and Matplotlib are used for visualizing plots.
 
 
