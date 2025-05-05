@@ -5,6 +5,7 @@ This project involves analysis of E- commerce Dataset to derive insights and vis
 E-commerce Database: Contains tables such as Orders, Customers,  Sales, Products, Category, Profit
 
 #Business Problem Statements
+
 1.📅 Which month had the highest sales and which month had the lowest sales?
 
 2.📦 Which category had the lowest sales and which category has the highest sales?
@@ -42,7 +43,7 @@ Copiers has the highest profit by sub-category
 #What is the sales-to-profit ratio?
 ![image](https://github.com/user-attachments/assets/83042e89-6bf0-4d52-be54-aec15575b4e4)
 
-#🔨Tools used
+#Tools used
 GOOGLE COLAB is used as IDE
 Among the Python libraries, Pandas is used for handling and preprocessing data.
 Plotly, Seaborn, and Matplotlib are used for visualizing plots.
