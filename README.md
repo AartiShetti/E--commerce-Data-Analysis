@@ -28,6 +28,7 @@ Jaanuary Month has the lowest Sales
 Technology has the  Highest Sales
 Office Supplies has the  Highest Sales
 ![image](https://github.com/user-attachments/assets/fa4252da-9f3b-430c-8984-c706328a0d11)
+
 #What are the sales figures based on sub-categories?
 ![image](https://github.com/user-attachments/assets/2aecdae5-8713-4240-92e3-2a8b43190eaf)
 #Which month had the highest profit from sales?
