@@ -44,7 +44,9 @@ December has the highest profit from sales
 # What is the profit by category and category?
 
 Technology has the highest profit by sub-category
+
 ![image](https://github.com/user-attachments/assets/c56de80f-0fc1-4701-9111-f8d3dc52aaa5)
+
 Copiers has the highest profit by sub-category
 ![image](https://github.com/user-attachments/assets/262abc96-9f5c-49ae-bd68-997e44f0af90)
 # How do sales and profit vary by customer segment?
