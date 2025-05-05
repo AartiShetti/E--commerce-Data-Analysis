@@ -23,12 +23,14 @@ E-commerce Database: Contains tables such as Orders, Customers,  Sales, Products
 # Which month had the highest sales and which month had the lowest sales?
 
 November Month has the Highest Sales
-Jaanuary Month has the lowest Sales
+
+January Month has the lowest Sales
 ![image](https://github.com/user-attachments/assets/d8207ed8-167e-4815-bd18-acf6be954616)
 
 # Which category had the lowest sales and which category has the highest sales?
 Technology has the  Highest Sales
-Office Supplies has the  Highest Sales
+
+Office Supplies has the  Lowest Sales
 ![image](https://github.com/user-attachments/assets/fa4252da-9f3b-430c-8984-c706328a0d11)
 
 # What are the sales figures based on sub-categories?
